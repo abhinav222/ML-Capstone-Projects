@@ -1,1 +1,1 @@
-# ML-Capstone-Projects
+# ML-Projects
